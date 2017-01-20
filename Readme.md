@@ -34,7 +34,7 @@ Useful Links:
 ### January
 
 Our upcoming [January event](https://www.meetup.com/Ionic-NYC-Meetup/events/236230387/) will be featuring:
-- John Pearson on Angular 2 Universal
+- [John Pearson on Angular 2 Universal] (https://github.com/JohnPhilipPearson/Angular2UniversalPresentation)
 - Daniel Zen on 4-way Data Binding
 
 ## 2016
