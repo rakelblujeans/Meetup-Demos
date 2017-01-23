@@ -39,7 +39,7 @@ Our upcoming [January event](https://www.meetup.com/Ionic-NYC-Meetup/events/2362
 
 ## 2016
 
-- @rakelblujeans [Platic Bag Finder](https://github.com/rakelblujeans/plastic-bag-finder-v2)
+- @rakelblujeans [Plastic Bag Finder](https://github.com/rakelblujeans/plastic-bag-finder-v2)
 - @xlozinguez [Trick n' Treat App](https://github.com/xlozinguez/tricksNtreats)
 
 # Contacts
