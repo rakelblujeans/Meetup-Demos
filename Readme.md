@@ -45,5 +45,5 @@ Our upcoming [January event](https://www.meetup.com/Ionic-NYC-Meetup/events/2362
 # Contacts
 
 For any presenation proposal, sponsor or anything else related to Ionic, feel free to reach out to either:
-- Raquel Burquan: [@rboojeee](http://twitter.com/rboojeee)
+- Raquel Bujans: [@rboojeee](http://twitter.com/rboojeee)
 - Xavier Lozinguez: [@xlozinguez](http://twitter.com/xlozinguez)
